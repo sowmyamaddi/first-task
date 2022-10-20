@@ -1,0 +1,17 @@
+*{
+			margin:0%;
+}
+	    .navigation{
+			background-color:black;
+			display:flex;
+			justify-content: space-evenly;
+}
+		.navigation a{
+			color: white;
+			text-decoration:none;
+			padding:1%;
+			font-size:20px;
+}
+        .navigation a:hover{
+        	background-color: purple;
+}
